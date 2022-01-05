@@ -11,6 +11,10 @@
 
 
 - As a user, when I click on one of the question marks an alert appears with the index position of that question mark in the array.
+
+created branch userstory2-wd
+
+
 - As a user, when I click on one of the question marks instead of the alert the question mark turns into a tree emoji.
 - As a user, if I select the winning square the question mark will become a treasure emoji.
 - As a user, if I select the losing square the question mark will become a bomb emoji.
